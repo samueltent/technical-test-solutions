@@ -1,0 +1,14 @@
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\bin\Debug\net8.0\SingleNumber.exe
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\bin\Debug\net8.0\SingleNumber.deps.json
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\bin\Debug\net8.0\SingleNumber.runtimeconfig.json
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\bin\Debug\net8.0\SingleNumber.dll
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\bin\Debug\net8.0\SingleNumber.pdb
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.AssemblyInfo.cs
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.dll
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\obj\Debug\net8.0\refint\SingleNumber.dll
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.pdb
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.genruntimeconfig.cache
+C:\Users\Sam\source\repos\SingleNumber\SingleNumber\obj\Debug\net8.0\ref\SingleNumber.dll
